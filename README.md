@@ -20,9 +20,11 @@
 - **[Medicine Face System](https://github.com/Sheyda-Fathi/medicine-face-system-notifications)**  
   Medication management platform with `face recognition` and `PostgreSQL`
 
+- **[Course Tracker CLI](https://github.com/Sheyda-Fathi/course-tracker-cli)**  
+  University course and assignment management CLI · `Python` + `SQLite` + `argparse` + `pytest` · `26 tests` ·  credit-weighted GPA
+
 ---
 
 ### Tech I've Used
 
-`Python` · `Git` · `pytest` · `cryptography` · `PostgreSQL` · `OpenCV` · `Streamlit`
-
+`Python` · `Git` · `GitHub` · `pytest` · `SQLite` · `argparse` · `cryptography` · `PostgreSQL` · `OpenCV` · `Streamlit`
