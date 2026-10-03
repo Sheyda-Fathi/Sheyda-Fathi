@@ -24,9 +24,12 @@
   University course and assignment management CLI · `Python` + `SQLite` + `argparse` + `pytest` · `26 tests` ·  credit-weighted GPA
   
 - **[Fitness Calories EDA](https://github.com/Sheyda-Fathi/fitness-calories-eda)**<br>Exploratory analysis of 15,000 workouts · `pandas` + `NumPy` + `Matplotlib` · merge, cleaning, groupby, pivot tables · 408× vectorization speed-up
+  
+- **[ML From Scratch](https://github.com/Sheyda-Fathi/ML-from-scratch)**  
+  Linear regression and gradient descent with `NumPy` only · normal equation, numerical gradient check, feature scaling · matches `scikit-learn` to 1e-14 on California Housing · `pytest` + `GitHub Actions`
 
 ---
 
 ### Tech I've Used
 
-`Python` · `Git` · `GitHub` · `pytest` · `SQLite` · `argparse` · `cryptography` · `PostgreSQL` · `OpenCV` · `Streamlit` · `pandas` · `NumPy` · `Matplotlib` · `Jupyter`
+`Python` · `Git` · `GitHub` · `GitHub Actions` · `pytest` · `SQLite` · `argparse` · `cryptography` · `PostgreSQL` · `OpenCV` · `Streamlit` · `pandas` · `NumPy` · `Matplotlib` · `scikit-learn` · `Jupyter`
